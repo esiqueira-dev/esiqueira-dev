@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there, I am Eduardo 👋
+
+<div>
+  <a href="https://www.instagram.com/esiqueiradev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto: esiqueira.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://twitter.com/esiqueiraDev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Linkedin" /></a>
+</div>
+
+##
 
 <!--
 **esiqueira-dev/esiqueira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
