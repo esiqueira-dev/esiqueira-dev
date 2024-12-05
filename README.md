@@ -7,7 +7,7 @@ With over 5 years of experience, I have worked on various projects utilizing a w
 
 I have hands-on experience using frameworks and technologies like Next.js, NestJS, and TypeScript. Over the years, I’ve worked with a variety of databases, including PostgreSQL, Microsoft SQL Server, MongoDB, DynamoDB, and Neo4J, to build reliable and scalable solutions.
 
-I’ve also had the opportunity to design and implement software using different architectures, like MVC, microservices, monolithic structures, and event-driven design. My focus is always on creating systems that are not just functional, but also scalable and easy to maintain.
+I’ve also had the opportunity to design and implement software using different architectures, like MVC, microservices, monolithic structures, event-driven design and serverless. My focus is always on creating systems that are not just functional, but also scalable and easy to maintain.
 
 ## Tech & Skills 💻
 
